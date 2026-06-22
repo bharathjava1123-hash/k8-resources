@@ -1,0 +1,9 @@
+apiversion: v1
+kind: Pod
+metadata:
+  name: expense
+
+spec: 
+  containers: 
+  - name: nginx
+    image: nginx
