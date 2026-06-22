@@ -4,8 +4,8 @@ metadata:
   name: labels
   labels: 
     project: expense
-    environment: dev
     module: backend
+    environment: dev
 spec: 
   containers: 
   - name: nginx
